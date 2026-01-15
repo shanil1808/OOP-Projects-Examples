@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shani\\Desktop\\OOP\\OOPC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59C9235-1BFA-407B-8A43-ECEDBE4E47B1}|OOPC1\\OOPC1.csproj|c:\\users\\shani\\desktop\\oop\\oopc1\\oopc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59C9235-1BFA-407B-8A43-ECEDBE4E47B1}|OOPC1\\OOPC1.csproj|solutionrelative:oopc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\Desktop\\OOP\\OOPC1\\OOPC1\\Program.cs",
+              "RelativeDocumentMoniker": "OOPC1\\Program.cs",
+              "ToolTip": "C:\\Users\\shani\\Desktop\\OOP\\OOPC1\\OOPC1\\Program.cs",
+              "RelativeToolTip": "OOPC1\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:24:01.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

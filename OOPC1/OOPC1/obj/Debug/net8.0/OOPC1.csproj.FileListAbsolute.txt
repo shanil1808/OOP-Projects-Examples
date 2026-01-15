@@ -1,0 +1,14 @@
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\bin\Debug\net8.0\OOPC1.exe
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\bin\Debug\net8.0\OOPC1.deps.json
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\bin\Debug\net8.0\OOPC1.runtimeconfig.json
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\bin\Debug\net8.0\OOPC1.dll
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\bin\Debug\net8.0\OOPC1.pdb
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\OOPC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\OOPC1.AssemblyInfoInputs.cache
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\OOPC1.AssemblyInfo.cs
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\OOPC1.csproj.CoreCompileInputs.cache
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\OOPC1.dll
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\refint\OOPC1.dll
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\OOPC1.pdb
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\OOPC1.genruntimeconfig.cache
+C:\Users\shani\Desktop\OOP\OOPC1\OOPC1\obj\Debug\net8.0\ref\OOPC1.dll
