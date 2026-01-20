@@ -1,0 +1,15 @@
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\bin\Debug\net8.0\SimpleAddition.exe
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\bin\Debug\net8.0\SimpleAddition.deps.json
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\bin\Debug\net8.0\SimpleAddition.runtimeconfig.json
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\bin\Debug\net8.0\SimpleAddition.dll
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\bin\Debug\net8.0\SimpleAddition.pdb
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.AssemblyInfoInputs.cache
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.AssemblyInfo.cs
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.csproj.CoreCompileInputs.cache
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.sourcelink.json
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.dll
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\refint\SimpleAddition.dll
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.pdb
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\SimpleAddition.genruntimeconfig.cache
+C:\Users\shani\Desktop\OOP\SimpleAddition\SimpleAddition\obj\Debug\net8.0\ref\SimpleAddition.dll

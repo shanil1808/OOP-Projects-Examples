@@ -1,0 +1,15 @@
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\bin\Debug\net8.0\OOPClass2.exe
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\bin\Debug\net8.0\OOPClass2.deps.json
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\bin\Debug\net8.0\OOPClass2.runtimeconfig.json
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\bin\Debug\net8.0\OOPClass2.dll
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\bin\Debug\net8.0\OOPClass2.pdb
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.AssemblyInfoInputs.cache
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.AssemblyInfo.cs
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.csproj.CoreCompileInputs.cache
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.sourcelink.json
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.dll
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\refint\OOPClass2.dll
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.pdb
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\OOPClass2.genruntimeconfig.cache
+C:\Users\shani\Desktop\OOP\OOPClass2\OOPClass2\obj\Debug\net8.0\ref\OOPClass2.dll
